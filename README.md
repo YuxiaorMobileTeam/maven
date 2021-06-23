@@ -1,7 +1,5 @@
 # maven 
 
-
-## Mavne
 ```
 allprojects {
     repositories {
@@ -14,7 +12,7 @@ allprojects {
 }
 ```
 
-## libs
+# libs
 ```
 dependencies {
     //飞书登录
